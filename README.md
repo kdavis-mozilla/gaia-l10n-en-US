@@ -1,4 +1,4 @@
-langpack-builder
+gaia-l10n-en-US
 ================
 
 A locale for building the en-US speech model language package for Firefox OS.
